@@ -32,6 +32,7 @@
 [Releases](https://github.com/siw0ocra-ctrl/Trial_Tower_Launcher/releases) 탭에서 시스템 OS에 맞는 설치 파일을 선택해서 다운로드하세요.
 
 > ⚠️ **안내**: 현재는 Windows 런처만 배포 예정입니다. 추후 타 플랫폼 지원 시 아래 파일을 참고해 주세요.
+
 | 플랫폼 | 파일 |
 | -------- | ---- |
 | Windows x64 | `Trial-Tower-Launcher-setup-VERSION.exe` |
