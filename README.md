@@ -5,7 +5,7 @@
 <h3 align="center"><a href="https://github.com/dscalzi/HeliosLauncher">Forked from Helios Launcher</a></h3>
 <h4 align="center"><a href="https://github.com/peunsu/MRSLauncher">Forked from MRS Launcher</a></h4>
 
-<p align="center"><a href="https://github.com/siw0ocra-ctrl/Trial_Tower/actions"><img src="https://img.shields.io/github/actions/workflow/status/siw0ocra-ctrl/Trial_Tower/build.yml?branch=main&style=for-the-badge" alt="gh actions"></a> <a href="https://github.com/siw0ocra-ctrl/Trial_Tower/releases"><img src="https://img.shields.io/github/downloads/siw0ocra-ctrl/Trial_Tower/total.svg?style=for-the-badge" alt="downloads"></a>
+<p align="center"><a href="https://github.com/siw0ocra-ctrl/Trial_Tower_Launcher/actions"><img src="https://img.shields.io/github/actions/workflow/status/siw0ocra-ctrl/Trial_Tower_Launcher/build.yml?branch=main&style=for-the-badge" alt="gh actions"></a> <a href="https://github.com/siw0ocra-ctrl/Trial_Tower_Launcher/releases"><img src="https://img.shields.io/github/downloads/siw0ocra-ctrl/Trial_Tower_Launcher/total.svg?style=for-the-badge" alt="downloads"></a>
 
 <p align="center">개인 서버 연구 목적으로 제작하였습니다.</p>
 
@@ -17,19 +17,19 @@
 
 ## 다운로드
 
-[GitHub Releases](https://github.com/siw0ocra-ctrl/Trial_Tower/releases)에서 다운로드할 수 있어요.
+[GitHub Releases](https://github.com/siw0ocra-ctrl/Trial_Tower_Launcher/releases)에서 다운로드할 수 있어요.
 
 #### 최신 릴리즈 버전
 
-[![](https://img.shields.io/github/v/release/siw0ocra-ctrl/Trial_Tower?style=flat-square)](https://github.com/siw0ocra-ctrl/Trial_Tower/releases/latest)
+[![](https://img.shields.io/github/v/release/siw0ocra-ctrl/Trial_Tower_Launcher?style=flat-square)](https://github.com/siw0ocra-ctrl/Trial_Tower_Launcher/releases/latest)
 
 #### 최신 프리릴리즈 버전
 
-[![](https://img.shields.io/github/v/release/siw0ocra-ctrl/Trial_Tower?include_prereleases&style=flat-square&label=pre-release)](https://github.com/siw0ocra-ctrl/Trial_Tower/releases)
+[![](https://img.shields.io/github/v/release/siw0ocra-ctrl/Trial_Tower_Launcher?include_prereleases&style=flat-square&label=pre-release)](https://github.com/siw0ocra-ctrl/Trial_Tower_Launcher/releases)
 
 **지원하는 플랫폼**
 
-[Releases](https://github.com/siw0ocra-ctrl/Trial_Tower/releases) 탭에서 시스템 OS에 맞는 설치 파일을 선택해서 다운로드하세요.
+[Releases](https://github.com/siw0ocra-ctrl/Trial_Tower_Launcher/releases) 탭에서 시스템 OS에 맞는 설치 파일을 선택해서 다운로드하세요.
 
 | 플랫폼 | 파일 |
 | -------- | ---- |
