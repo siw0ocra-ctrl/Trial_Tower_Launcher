@@ -1,4 +1,4 @@
-<p align="center"><img src="./app/assets/images/Icon.png" width="150px" height="150px" alt="mystic red space"></p>
+<p align="center"><img src="./Icon.png" width="150px" height="150px" alt="mystic red space"></p>
 
 <h1 align="center">Trial Tower Launcher</h1>
 
