@@ -38,3 +38,4 @@
 | macOS arm64[^1] | `Trial-Tower-Launcher-setup-VERSION-arm64.dmg` |
 | Linux x64 | `Trial-Tower-Launcher-setup-VERSION.AppImage` |
 [^1]: macOS 설치 파일은 서명되지 않아서 보안 경고가 뜰 수 있으며 정상 작동을 보장하지 않아요.
+현재 윈도우 런처만 배포예정
