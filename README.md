@@ -5,7 +5,7 @@
 <h3 align="center"><a href="https://github.com/dscalzi/HeliosLauncher">Forked from Helios Launcher</a></h3>
 <h4 align="center"><a href="https://github.com/peunsu/MRSLauncher">Forked from MRS Launcher</a></h4>
 
-<p align="center"><a href="https://github.com/siw0ocra-ctrl/Trial_Tower_Launcher/actions"><img src="https://img.shields.io/github/actions/workflow/status/siw0ocra-ctrl/Trial_Tower_Launcher/build.yml?branch=main&style=for-the-badge" alt="gh actions"></a> <a href="https://github.com/siw0ocra-ctrl/Trial_Tower_Launcher/releases"><img src="https://img.shields.io/github/downloads/siw0ocra-ctrl/Trial_Tower_Launcher/total.svg?style=for-the-badge" alt="downloads"></a>
+<p align="center"><a href="https://github.com/siw0ocra-ctrl/Trial_Tower_Launcher/releases"><img src="https://img.shields.io/github/downloads/siw0ocra-ctrl/Trial_Tower_Launcher/total.svg?style=for-the-badge" alt="downloads"></a>
 
 <p align="center">개인 서버 연구 목적으로 제작하였습니다.</p>
 
